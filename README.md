@@ -51,6 +51,20 @@ This project is a 3D zombie survival prototype built with Unreal Engine 5 and C+
 - 💾 Checkpoint and save/load system
 - 🔫 Additional weapons and environments
 
+  ## Gameplay Demo,  Not the final gameplay 
 
+
+https://github.com/user-attachments/assets/a5f843ad-c80c-4fa4-b9ed-5a0b05f774df
+
+
+
+
+https://github.com/user-attachments/assets/23b63f50-b978-424a-8ebb-8552461c68c5
+
+
+
+
+
+https://github.com/user-attachments/assets/2c59c629-a2e3-4c04-b323-32fbe4c9d64d
 
 
